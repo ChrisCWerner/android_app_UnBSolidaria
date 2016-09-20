@@ -12,13 +12,12 @@ Aplicativo Android - Projeto UnB Solidária - Linguagens de Programação - 2/20
 
 ###Configuração prévia:
 * Instale o Git no seu computador
-* Dê _Fork_ no repositório
-* Clone o seu repositório para o seu computador:
+* Clone o repositório para o seu computador:
 ```
 git clone https://github.com/hugohonda/android_app_UnBSolidaria.git
 ```
 
-Se for necessário, criar Branches:
+Trabalhando com Branches:
 
 ###_Branches_ (Ramos):
 * _Branches_ são caminhos que você pode criar no código
@@ -37,3 +36,7 @@ git checkout -b [nome_do_branch]
 ###_Merge_
 Um dos membros da equipe ficará responsável pelo _merge_
 * Funcionalidade são separadas em Branches de cada um e serão _merged_ com o _master branch_
+ 
+
+###Créditos
+* [getting-started-git-team-environment](https://www.sitepoint.com/getting-started-git-team-environment/)
