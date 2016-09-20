@@ -4,8 +4,8 @@ Aplicativo Android - Projeto UnB Solidária - Linguagens de Programação - 2/20
 
 ##To-Do
 
-* Responder [Doodle](http://doodle.com/poll/q3wri9rb37g4ywh6){:target="_blank"} para a Reunião Semanal
-* Instalar o [Android Studio](https://developer.android.com/studio/index.html){:target="_blank"}
+* Responder <a href="http://doodle.com/poll/q3wri9rb37g4ywh6" target="_blank">Doodle</a> para a Reunião Semanal
+* Instalar o <a href="https://developer.android.com/studio/index.html" target="_blank">Android</a>
 * Configurar GitHub de acordo com o Guia Básico abaixo
 
 ## Guia Básico Git
