@@ -15,7 +15,7 @@ Aplicativo Android - Projeto UnB Solidária - Linguagens de Programação - 2/20
 * Dê _Fork_ no repositório
 * Clone o seu repositório para o seu computador:
 ```
-git clone https://github.com/seu-git/website.git
+git clone https://github.com/hugohonda/android_app_UnBSolidaria.git
 ```
 
 Se for necessário, criar Branches:
